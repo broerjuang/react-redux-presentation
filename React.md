@@ -27,4 +27,4 @@ class App extends Component {
 }
 ```
 Result
-![]()
+![](https://raw.githubusercontent.com/broerjuang/react-redux-presentation/master/example-react.png)
