@@ -2,6 +2,7 @@
 > ...We're mixing two concepts that are very hard for the human mind to reason about: mutation and asynchronicity....managing the state of your data is left up to you. This is where Redux enters.
 
 ## Three Principles of Redux
+![One Way](https://raw.githubusercontent.com/broerjuang/react-redux-presentation/master/single-source.jpeg)
 - Single source of truth
   - [Juan Guardado on Redux Single Souce of Truth](https://medium.com/@juanguardado/redux-single-source-of-truth-e1fe1fb6ffec#.fhhk0x5xt)
 - State is read-only
