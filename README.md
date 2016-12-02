@@ -1,2 +1,6 @@
-# react-redux-presentation
-It means to be the presentation of React using Redux
+# React and Redux Presentation
+The talk will be around these topics.
+
+1. React
+2. Pure Function
+3. Redux
